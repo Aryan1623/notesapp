@@ -41,6 +41,9 @@ body{
     margin-top: 1.5rem;
     position: relative;
     border-radius: 5px;
+    color: rgb(5, 5, 54);
+    font-size: 1.2rem;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .input img{
     height: 1rem;
